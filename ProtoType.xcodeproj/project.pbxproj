@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04150D4D1FBF118F006ED532 /* FBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04150D4C1FBF118F006ED532 /* FBViewController.swift */; };
 		047073C21FBE8B3400CA4C87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047073C11FBE8B3400CA4C87 /* AppDelegate.swift */; };
 		047073C41FBE8B3400CA4C87 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047073C31FBE8B3400CA4C87 /* FirstViewController.swift */; };
 		047073C61FBE8B3400CA4C87 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047073C51FBE8B3400CA4C87 /* SecondViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04150D4C1FBF118F006ED532 /* FBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FBViewController.swift; sourceTree = "<group>"; };
 		047073BE1FBE8B3400CA4C87 /* ProtoType.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProtoType.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		047073C11FBE8B3400CA4C87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		047073C31FBE8B3400CA4C87 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				047073C11FBE8B3400CA4C87 /* AppDelegate.swift */,
 				047073C31FBE8B3400CA4C87 /* FirstViewController.swift */,
 				047073C51FBE8B3400CA4C87 /* SecondViewController.swift */,
+				04150D4C1FBF118F006ED532 /* FBViewController.swift */,
 				047073C71FBE8B3400CA4C87 /* Main.storyboard */,
 				047073CA1FBE8B3400CA4C87 /* Assets.xcassets */,
 				047073CC1FBE8B3400CA4C87 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04150D4D1FBF118F006ED532 /* FBViewController.swift in Sources */,
 				047073C61FBE8B3400CA4C87 /* SecondViewController.swift in Sources */,
 				047073C21FBE8B3400CA4C87 /* AppDelegate.swift in Sources */,
 				047073C41FBE8B3400CA4C87 /* FirstViewController.swift in Sources */,
